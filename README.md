@@ -140,5 +140,4 @@ Each transition is invoked in code synchronously, ensuring a predictable sequenc
 
 ---
 
-*Licensed under MIT.*
-# Cyber_Security_DFS_Syschronous
+*Licensed under Catalina.*
